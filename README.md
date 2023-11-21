@@ -9,25 +9,25 @@ To run the Conway's Game of Life simulation, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/conway-game-of-life-cpp.git
+   git clone https://github.com/leonardovilla99/ConwayCPP.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd conway-game-of-life-cpp
+   cd ConwayCPP
    ```
 
 3. Compile the source code:
 
    ```bash
-   g++ -o conway_game conway_game.cpp
+   g++ -o ConwayCPP ConwayCPP.cpp
    ```
 
 4. Run the executable:
 
    ```bash
-   ./conway_game
+   ./ConwayCPP
    ```
 
 ## Rules of the Game
